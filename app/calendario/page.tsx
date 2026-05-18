@@ -1,6 +1,6 @@
 export default function CalendarioPage() {
   return (
-    <main>
+    <main className="min-h-screen p-6">
       Calendario
     </main>
   );
