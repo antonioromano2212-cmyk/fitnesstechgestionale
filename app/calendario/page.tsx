@@ -1,7 +1,7 @@
 export default function CalendarioPage() {
   return (
-    <div>
+    <main>
       Calendario
-    </div>
+    </main>
   );
 }
