@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export", // Questo permette la build statica per Workers
+
+const nextConfig: NextConfig = {
+  output: "export",
 };
 
-module.exports = nextConfig;
+export default nextConfig;
